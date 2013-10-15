@@ -1,0 +1,1553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"maxR",
+				"maxResultsA"
+			],
+			[
+				"max",
+				"maxResultsP"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"check",
+				"checkValidSource"
+			],
+			[
+				"geocode",
+				"geocode_enabled"
+			],
+			[
+				"info",
+				"infoboxes"
+			],
+			[
+				"meta",
+				"metaURL"
+			],
+			[
+				"tog",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"t",
+				"trim	$.trim()"
+			],
+			[
+				"search",
+				"searchArticles"
+			],
+			[
+				"pla",
+				"placeMarker"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"sear",
+				"searchArticles"
+			],
+			[
+				"f_art",
+				"f_artlabel"
+			],
+			[
+				"maxResult",
+				"maxResultsP"
+			],
+			[
+				"minY",
+				"minYearA"
+			],
+			[
+				"searchTerm",
+				"searchTermP"
+			],
+			[
+				"fp_",
+				"fp_max"
+			],
+			[
+				"fp",
+				"fp_minYear"
+			],
+			[
+				"pho",
+				"photoInfoBox"
+			],
+			[
+				"maxRes",
+				"maxResultsA"
+			],
+			[
+				"prevS",
+				"prevSearchTermP"
+			],
+			[
+				"fa_",
+				"fa_exclude"
+			],
+			[
+				"fa",
+				"fa_exclude"
+			],
+			[
+				"min",
+				"minYearP"
+			],
+			[
+				"fa_m",
+				"fa_minYear"
+			],
+			[
+				"geocod",
+				"geocode_enabled"
+			],
+			[
+				"loaded",
+				"loadedPics"
+			],
+			[
+				"load",
+				"loadedPics"
+			],
+			[
+				"lo",
+				"loadedArts"
+			],
+			[
+				"prev",
+				"prevMaxYear"
+			],
+			[
+				"prevM",
+				"prevMaxYear"
+			],
+			[
+				"Perfor",
+				"PerformSearch"
+			],
+			[
+				"Per",
+				"PerformSearch"
+			],
+			[
+				"process",
+				"processPicture"
+			],
+			[
+				"get_re",
+				"get_redirect_url"
+			],
+			[
+				"pic",
+				"pictureURL"
+			],
+			[
+				"photo",
+				"photoMarker"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"empl",
+				"employees"
+			],
+			[
+				"emp",
+				"employees"
+			],
+			[
+				"dep",
+				"dept_num"
+			],
+			[
+				"sub",
+				"suburb_code"
+			],
+			[
+				"Game",
+				"GameStart"
+			],
+			[
+				"Gam",
+				"GameStart"
+			],
+			[
+				"Ran",
+				"Random"
+			],
+			[
+				"OnC",
+				"OnCollisionExit	collision"
+			],
+			[
+				"OnCOll",
+				"OnCollisionEnter	collision"
+			],
+			[
+				"Vec",
+				"Vector3	x, y, z"
+			],
+			[
+				"Tran",
+				"Transform"
+			],
+			[
+				"T",
+				"Transform"
+			],
+			[
+				"Ve",
+				"Vector3	x, y, z"
+			],
+			[
+				"series",
+				"seriesDir"
+			],
+			[
+				"repl",
+				"replaceAll"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "interact.html",
+			"settings":
+			{
+				"buffer_size": 7415,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/infs1300/d3/bundle.html",
+			"settings":
+			{
+				"buffer_size": 5681,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "outputsvg.html",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Windows",
+				"name": "<html>"
+			}
+		},
+		{
+			"file": "policies.json",
+			"settings":
+			{
+				"buffer_size": 2100,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lint set",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"browse",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"new ",
+				"Tasks: New document"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"todo",
+				"Show TODOs: Open files only"
+			],
+			[
+				"lint sett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"disabl",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"snipp",
+				"Snippet: Object Value JS"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hist",
+				"Git: Commit history"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git puh",
+				"Git: Push"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git ",
+				"Git: Pull"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Amend Commit"
+			],
+			[
+				"commit hi",
+				"Git: Commit history"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"commi",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs: Open files only"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"clip",
+				"Clipboard History"
+			],
+			[
+				"high vis",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"insts",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"BH H",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"soda",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 133.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/wamp/www/heb/index.html",
+		"/CUsersAndrew:interact.html",
+		"/C/wamp/www/heb/readme-flare-imports.json",
+		"/C/wamp/www/hieredge/bundle.html",
+		"/CUsersAndrew:policies.json",
+		"/C/Users/Andrew/Desktop/foundation/index.html",
+		"/C/Users/Andrew/Desktop/021.htm",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/base.css",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/_unused/testao.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/js/lightbox-2.6.min.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/slimboxtest.htm",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/testcors.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/testao.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/test.html",
+		"/C/Users/Andrew/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/ajax_example.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/deco1800-040",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/test.php",
+		"/C/wamp/www/php/getimg.php",
+		"/C/wamp/bin/apache/Apache2.4.4/conf/httpd.conf",
+		"/C/wamp/alias/phpmyadmin.conf",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/HTML/html.sublime-snippet",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/timeline.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/flood.sublime-project",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DR06.848/index.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/users/andrew/appdata/local/temp/sublime-sftp-browse-1380009656/deco1800-040/var/www/htdocs/test/brisbane-floods/timeline.html",
+		"/C/users/andrew/appdata/local/temp/sublime-sftp-browse-1380007779/deco1800-040/var/www/htdocs/timeline.html",
+		"/C/Users/Andrew/Downloads/lightbox2.04/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/js/lightbox.js",
+		"/C/Users/Andrew/Desktop/deco1800-040",
+		"/C/Users/Andrew/Desktop/party.todo",
+		"/C/Users/Andrew/Desktop/party.txt",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Origami/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Origami/Origami.sublime-commands",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/semiline.sublime-macro",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Default/Delete Line.sublime-macro",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/test.js",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Andrew/Desktop/1800-021.htm",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/CSSE1001/Assignment1/assign1.py",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/TodoManager/TodoManager.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/script.js",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Default.sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/JsFormat/README.md",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/bh_core.sublime-settings",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1400/Assignment2/skeleton/about.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1400/Assignment2/skeleton/js/imagecycle.js",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/HTML/scriptsrc.sublime-snippet",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/htdocs/index.html",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/C/wamp/www/php/processorder.php",
+		"/C/Users/Andrew/Downloads/persist-js-eadb8c9323fc/persist-js-eadb8c9323fc/test/test.js",
+		"/C/Users/Andrew/Downloads/persist-js-eadb8c9323fc/persist-js-eadb8c9323fc/test/test.html",
+		"/C/Users/Andrew/Downloads/persist-js-eadb8c9323fc/persist-js-eadb8c9323fc/README",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build5/index.html",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DR09.856/brisbane-floods-master/timeline.html",
+		"/C/Users/Andrew/Documents/AHK Scripts/ChromeTabScroll.ahk",
+		"/C/Users/Andrew/Documents/UQ/DECO1400/Pracs/Prac10/prac10.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1400/Pracs/Prac9/prac9.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1400/Pracs/Prac8/prac8.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/start.html",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DR14.288/persist-js-eadb8c9323fc/README",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/js/search.js",
+		"/F/brisbane-floods/js/search.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/search.js",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/Users/Andrew/.ssh/id_rsa.pub",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/Brisbane-Floods/base.css",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/Brisbane-Floods/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build5/base.css",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build5/jquery.mCustomScrollbar.concat.min.js",
+		"/C/wamp/www/php/jstophp/ajax.php",
+		"/C/wamp/www/php/jstophp/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/htdocs/useDate.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build5/build5.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build3/base.css",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build3/build3.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/deco1800-project/build3.html",
+		"/C/wamp/www/php/build3/build3.php",
+		"/C/wamp/bin/apache/Apache2.4.4/bin/php.ini",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/deco1800-project/README",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build3/.git/config",
+		"/C/Users/Andrew/.ssh/config",
+		"/C/Users/Andrew/.ssh/id_rsa_nopass.pub",
+		"/C/Users/Andrew/.bashrc",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build3/README",
+		"/C/Users/Andrew/AppData/Roaming/Sublime Text 2/Packages/User/Git.sublime-settings",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build3/test.js",
+		"/C/wamp/www/php/orderform.html",
+		"/C/wamp/www/php/shipping.php",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DR40.992/index.html",
+		"/C/Users/Andrew/AppData/Local/Temp/Rar$DR40.992/ajax.php",
+		"/C/Users/Andrew/Downloads/DynamicPage/DynamicPage/contact.html",
+		"/C/Users/Andrew/Downloads/DynamicPage/DynamicPage/about.html",
+		"/C/Users/Andrew/Downloads/DynamicPage/DynamicPage/js/dynamicpage.js",
+		"/C/Users/Andrew/Downloads/DynamicPage/DynamicPage/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/base.css",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/buildm2.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/index.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/build.html",
+		"/C/Users/Andrew/Dropbox/Public/insects.html",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/trove.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/gmaps.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/build2/test.js",
+		"/C/Users/Andrew/Documents/UQ/DECO1800/Build/pwuff.html",
+		"//192.168.2.203/Ingrid Dyer's Public Folder/build/build.html",
+		"/C/Users/Andrew/Downloads/googlemaps/googlemaps/gmaps.js",
+		"/C/Users/Andrew/Downloads/googlemaps/googlemaps/index.html",
+		"/C/Users/Andrew/Downloads/googlemaps/googlemaps/blah.html",
+		"/C/Users/Andrew/Dropbox/Backup/UQ/DECO1800/Build/pwuff.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"key",
+			"d62728",
+			"blue",
+			"2ca02c",
+			"StudentAction",
+			"SA",
+			"key",
+			"&",
+			" ",
+			"&",
+			" ",
+			"Student Action",
+			"path",
+			"source",
+			"target",
+			"path",
+			"dot",
+			"cross",
+			"bundle",
+			"test",
+			"STUDENT ACTION",
+			"ACTION",
+			"STUDENT",
+			"LIFT",
+			"REFORM",
+			"text",
+			"Fresh",
+			"Student Action",
+			"Reform",
+			"Lift",
+			"name",
+			"111",
+			"11",
+			"1111",
+			"11111",
+			"[0-9]",
+			"size\":\\d\\d\\d\\d\\d",
+			"size\":[0-9]*4",
+			"size\":[0-9]",
+			"size",
+			"flare.vis.Visual",
+			"legendrange",
+			"title",
+			"validsources",
+			"invalidsources",
+			"setInfoBox",
+			"geocode_enabled",
+			"setInfoBoxContent",
+			"imageURL",
+			"info",
+			"snippet",
+			"loc",
+			"img",
+			"box",
+			"place",
+			"clear",
+			"timeout",
+			"fetchimageURL",
+			"oai:",
+			"hdl",
+			"regex",
+			"input",
+			"other source",
+			"console.log(add",
+			"$",
+			"pics",
+			"farm",
+			"ctrl+k",
+			"super",
+			"pane",
+			"ctrl+up",
+			"pane",
+			"ctrl+shift+up",
+			"ctrl+1",
+			"ctrl+left",
+			"ctrl+shift+left",
+			"whitespace",
+			"ctrl+alt+d",
+			"ctrl+shift+f",
+			"mCSB_",
+			"prevMinYearA",
+			"[1]",
+			"flickr",
+			"light",
+			"var searchTerm",
+			"newSearch",
+			"for (",
+			"for",
+			"console.log",
+			"$",
+			"searchDate",
+			"PerformSearch",
+			"performed",
+			"photoMarker",
+			"marker",
+			"un",
+			"onclick",
+			"mapinfo",
+			".png",
+			"mCSB",
+			"buttons",
+			"console",
+			"curl",
+			"str",
+			"d",
+			"direction",
+			"d",
+			"enumerate",
+			"font",
+			"caret",
+			"update",
+			"employees",
+			"slow",
+			"useragent",
+			"SetActive",
+			"disTravelled",
+			"indent",
+			"tab",
+			"Monaco",
+			"Day",
+			"Consolas",
+			"font",
+			"fontface",
+			"Y=75",
+			"X=240",
+			"H=70",
+			"H=50",
+			"H="
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Student-Action",
+			"StudentAction",
+			"and",
+			"-",
+			"SA",
+			"FRESH",
+			"STUDENT ACTION",
+			"REFORM",
+			"LIFT",
+			"1",
+			"marker",
+			"PT Sans",
+			"Monaco",
+			"Y=80",
+			"X=255",
+			"X=260",
+			"H=50",
+			"H=40",
+			"FontSize=20",
+			"FontSize=30",
+			"FontSize=24",
+			"FontSize=14",
+			"FontSize=10",
+			"FontSize=8"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "interact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_indent": true,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 157.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/infs1300/d3/bundle.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2790,
+								2790
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1802.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "outputsvg.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "<html>",
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "policies.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 109.0
+	},
+	"output.git":
+	{
+		"height": 120.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 120.0
+	},
+	"output.sftp":
+	{
+		"height": 120.0
+	},
+	"project": "heb.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"caa",
+				"/C/Users/Andrew/Documents/UQ/DECO1800/Build/brisbane-floods/base.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"flo",
+				"C:\\Users\\Andrew\\Documents\\UQ\\DECO1800\\Build\\brisbane-floods_2\\flood-found.sublime-project"
+			],
+			[
+				"word",
+				"C:\\wamp\\www\\wordcloud\\wordcloud.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Andrew\\Desktop\\blah.sublime-workspace"
+			],
+			[
+				"port",
+				"C:\\Users\\Andrew\\Documents\\UQ\\DECO1800\\Portfolio\\build1\\deco1800-portfolio.sublime-project"
+			],
+			[
+				"part",
+				"C:\\Users\\Andrew\\Desktop\\party.sublime-project"
+			],
+			[
+				"blah",
+				"C:\\Users\\Andrew\\Desktop\\blah.sublime-workspace"
+			],
+			[
+				"fl",
+				"C:\\Users\\Andrew\\Documents\\UQ\\DECO1800\\Build\\flood.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
