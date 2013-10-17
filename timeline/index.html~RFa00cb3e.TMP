@@ -2,7 +2,7 @@
 <head>
     <body>
 
-    <h3>UQ Union since 1995</h3>
+    <h3>UQ Union since 2000</h3>
     <!-- <p>*National Organisation of Labor Students</p> -->
     <div id="from2000" style="width: 1200px; height: 180px;"></div>
 
@@ -41,8 +41,8 @@ function drawChart() {
     // [ 'Party', 'Labor Right',    new Date(1981, 1, 1), new Date(1985, 1, 1)],
     // [ 'Party', 'Labor Right',    new Date(1981, 1, 1), new Date(1985, 1, 1)],
     // [ 'Party', 'Labor Right',    new Date(1981, 1, 1), new Date(1985, 1, 1)],
-    [ 'Party', 'Labor',         new Date(1995, 1, 1), new Date(1996, 1, 1)],
-    [ 'Party', 'Liberal',       new Date(1996, 1, 1), new Date(1997, 1, 1)],
+    [ 'Party', 'Labor Right',    new Date(1995, 1, 1), new Date(1996, 1, 1)],
+    [ 'Party', 'Labor Right',    new Date(1996, 1, 1), new Date(1997, 1, 1)],
     [ 'Party', 'Labor Left',    new Date(1997, 1, 1), new Date(2002, 1, 1)],
     [ 'Party', 'National Organisation of Labor Students',         new Date(2002, 1, 1), new Date(2004, 1, 1)],
     [ 'Party', 'Vision',        new Date(2004, 1, 1), new Date(2005, 1, 1)],
@@ -52,9 +52,7 @@ function drawChart() {
     [ 'Party', 'Fresh',         new Date(2008, 1, 1), new Date(2014, 1, 1)],
     [ 'Party', 'Reform',        new Date(2014, 1, 1), new Date(2015, 1, 1)],
 
-    [ 'Political Alignment', 'Labor',                         new Date(1995, 1, 1), new Date(1996, 1, 1)],
-    [ 'Political Alignment', 'Liberal',                       new Date(1996, 1, 1), new Date(1997, 1, 1)],
-    [ 'Political Alignment', 'Labor Left',                    new Date(1997, 1, 1), new Date(2003, 1, 1)],
+    [ 'Political Alignment', 'Labor Left',                    new Date(2000, 1, 1), new Date(2003, 1, 1)],
     [ 'Political Alignment', 'Labor Left-Liberal Coalition',  new Date(2003, 1, 1), new Date(2004, 1, 1)],
     [ 'Political Alignment', 'Labor',                         new Date(2004, 1, 1), new Date(2005, 1, 1)],
     [ 'Political Alignment', 'Labor Left',                    new Date(2005, 1, 1), new Date(2008, 1, 1)],

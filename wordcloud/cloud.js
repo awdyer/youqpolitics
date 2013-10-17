@@ -11,7 +11,7 @@ var words = [],
     tags,
     fontSize,
     maxLength = 30,
-    fetcher = "https://dl.dropboxusercontent.com/u/18671465/wordcloud/text.txt",
+    fetcher = "https://dl.dropboxusercontent.com/u/18671465/youqpolitics/wordcloud.txt",
     statusText = d3.select("#status");
 
 var layout = d3.layout.cloud()
